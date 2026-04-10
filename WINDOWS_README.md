@@ -25,7 +25,7 @@ Or:
   8. In the package installation dialog, choose the option to install from a file or from a local source.
   9. Browse and select the downloaded gpt-engineer package file from your computer.
 
-For **development**:
+For **develpment**:
 
 - `git clone git@github.com:gpt-engineer-org/gpt-engineer.git`
 - `cd gpt-engineer`
